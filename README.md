@@ -2,7 +2,7 @@
 #### Advogado trabalhista e estudante de análise e desenvolvimento de sistemas
 
 Apesar de ser entusiasta de tecnologia por muitos anos, por inúmeras razões acabei adiando minha entrada na área. 
-Mas finalmente em 2023 tomei a iniciativa de iniciar no mundo da programação através do curso de Análise e Desenvolvimento de Sistemas na UNIT.
+Mas finalmente, em 2023, tomei a iniciativa de iniciar no mundo da programação através do curso de Análise e Desenvolvimento de Sistemas na UNIT.
 
 - 🌱 Atualmente aprendendo JAVA 
 
