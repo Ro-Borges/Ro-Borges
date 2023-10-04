@@ -22,10 +22,5 @@ But finally, in 2023, I took the initiative to start in the world of programming
                                                                  
 </div>&nbsp;&nbsp;
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ro-Borges)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ro-Borges)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Ro-Borges)  
-
 
