@@ -15,8 +15,12 @@ Despite being a technology enthusiast for many years, for various reasons, I end
 But finally, in 2023, I took the initiative to start in the world of programming through the System Analisys and Development course at UNIT.
 
 - 🌱 Currently learning JAVA
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ro-Borges)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rodrigoborgesfreitas//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ro_borges_/)  
+ 
+<div> 
+<a href="https://www.linkedin.com/in/rodrigoborgesfreitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.instagram.com/ro_borges_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+                                                                 
+</div>&nbsp;&nbsp;
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ro-Borges)](https://github.com/ryo-ma/github-profile-trophy)
 
