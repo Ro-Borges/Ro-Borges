@@ -2,7 +2,7 @@
 #### Advogado trabalhista e estudante de análise e desenvolvimento de sistemas
 
 Apesar de ser entusiasta de tecnologia por muitos anos, por inúmeras razões acabei adiando minha entrada na área. 
-Mas finalmente, em 2023, tomei a iniciativa de iniciar no mundo da programação através do curso de Análise e Desenvolvimento de Sistemas na UNIT.
+Mas finalmente, tomei a iniciativa de iniciar no mundo da programação através do curso de Análise e Desenvolvimento de Sistemas na UNIT.
 
 - 🌱 Atualmente aprendendo JAVA 
 
@@ -12,7 +12,7 @@ Mas finalmente, em 2023, tomei a iniciativa de iniciar no mundo da programação
 #### Labor Lawyer and student of System Analisys and Development from Brazil
 
 Despite being a technology enthusiast for many years, for various reasons, I ended up postponing my entry into the field.
-But finally, in 2023, I took the initiative to start in the world of programming through the System Analisys and Development course at UNIT.
+But I finally, took the initiative to start in the world of programming through the System Analisys and Development course at UNIT.
 
 - 🌱 Currently learning JAVA
  
