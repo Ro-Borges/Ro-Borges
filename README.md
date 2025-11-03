@@ -9,7 +9,7 @@ Mas finalmente, tomei a iniciativa de iniciar no mundo da programação
 
 
 ### Hi there 👋, My name is Rodrigo Borges
-#### Labor Lawyer and student of System Analisys and Development from Brazil
+
 
 Despite being a technology enthusiast for many years, for various reasons, I ended up postponing my entry into the field.
 But I finally, took the initiative to start in the world of programmin.
