@@ -1,5 +1,5 @@
 ### Olá 👋, Meu nome é Rodrigo Borges
-#### Advogado trabalhista e estudante de análise e desenvolvimento de sistemas
+
 
 Apesar de ser entusiasta de tecnologia por muitos anos, por inúmeras razões acabei adiando minha entrada na área. 
 Mas finalmente, tomei a iniciativa de iniciar no mundo da programação
